@@ -1,6 +1,6 @@
 # grant-screen
 
-A project for managing and screening grants.
+A tiny demo project to identify grant proposals for further due diligence based on a financial threshold.
 
 ## Getting Started
 
