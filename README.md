@@ -34,9 +34,7 @@ pytest
 
 ## Features
 
-- Grant submission and tracking
-- Screening and evaluation tools
-- Report generation
+- Screening grant applications based on financial support requested.
 
 ## Contributing
 
@@ -45,6 +43,10 @@ Contributions are welcome! Please feel free to submit a pull request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## AI Disclosure
+
+Google Gemini and GitHub Copilot were invovled in brainstorming and writing the README for this project.
 
 ## Support
 
