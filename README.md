@@ -32,7 +32,8 @@ This project serves as a DevOps portfolio piece demonstrating automated unit tes
    ```bash
    git clone [https://github.com/lowesusannah/grant-screen.git](https://github.com/lowesusannah/grant-screen.git)
    cd grant-screen
-  ```2. **Install dependencies:**
+   ```
+2. **Install dependencies:**
   ```bash
 pip  install fastapi uvicorn pytest httpx flake8
 ```
