@@ -46,7 +46,7 @@ pip  install fastapi uvicorn pytest httpx flake8
    uvicorn main:app --reload
    ```
 Once running, you can view the interactive API documentation at
-```http://127.0.org:8000/docs```
+```http://127.0.0.1:8000/docs```
 
 ##Docker Deployment
 To build and run the application as an isolated container:
