@@ -49,6 +49,7 @@ Once running, you can view the interactive API documentation at
 ```http://127.0.0.1:8000/docs```
 
 ##Docker Deployment
+
 To build and run the application as an isolated container:
 
 1. **Build the Docker image:**
@@ -58,7 +59,7 @@ To build and run the application as an isolated container:
 2. **Run the Container**
    ```bash
    docker run -p 8000:8000 grant-screen-api
-
+``` 
 
 
 
