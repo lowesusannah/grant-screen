@@ -21,6 +21,17 @@ npm install
 npm start
 ```
 
+## Testing locally
+Assuming you have the repo on your local machine and have initialized it using git.
+
+```bash
+# 1. Install the required tools
+pip install fastapi uvicorn pytest httpx
+
+# 2. Run the test suite
+pytest
+```
+
 ## Features
 
 - Grant submission and tracking
