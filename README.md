@@ -1,6 +1,6 @@
 # grant-screen
 
-A tiny demo project to identify grant proposals for further due diligence based on a financial threshold.
+A tiny demo project to show use of ci/cd concepts using GitHub Actions. This app will identify grant proposals for further due diligence based on a financial threshold.
 
 ## Getting Started
 
