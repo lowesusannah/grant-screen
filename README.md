@@ -35,8 +35,8 @@ This project serves as a DevOps portfolio piece demonstrating automated unit tes
    ```
 2. **Install dependencies:**
   ```bash
-pip  install fastapi uvicorn pytest httpx flake8
-```
+   pip  install fastapi uvicorn pytest httpx flake8
+   ```
 3. **Run the test suite locally:**
    ```bash
    pytest
@@ -46,21 +46,22 @@ pip  install fastapi uvicorn pytest httpx flake8
    uvicorn main:app --reload
    ```
 Once running, you can view the interactive API documentation at
-```http://127.0.0.1:8000/docs```
+```
+http://127.0.0.1:8000/docs
+```
 
-##Docker Deployment
+### Docker Deployment
 
 To build and run the application as an isolated container:
 
 1. **Build the Docker image:**
-   ```Bash
+   ```bash
    docker build -t grant-screen-api .
    ```
 2. **Run the Container**
    ```bash
    docker run -p 8000:8000 grant-screen-api
-``` 
-
+   ``` 
 
 
 ## CI/CD Pipeline Architecture
